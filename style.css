@@ -1,20 +1,15 @@
 
 /* Body */
 body {
-    background-color: #F8F9F9;
+    background-color: #E5EAEA;
     margin-bottom: 150px;
 
 }
 
-@media only screen and (max-width: 767px) {
-    body {
-    background-color: #F8F9F9;
-  }
-
 /* Navigation Bar */
 .navigation .navbar-brand {
     color: white;
-    margin-left: 30px;
+    margin-left: 0px;
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-top: 20px;
@@ -25,7 +20,6 @@ body {
     background-color: white;
     max-height: 60px;
     font-size: 24px;
-    background-color: #4AAAA5;
     
 }
 
@@ -43,11 +37,19 @@ body {
     background-color: #EDF3F2;
   }
 
+  .dropdown-item {
+      color: #686D6C;
+  }
+
+  .nav-link {
+    color: #686D6C;
+  }
   .title {
       font-size: 40px;
       color: #4AAAA5;
       font-weight: bold;
       font: Georgia;
+      padding-top: 10px;
   }
 
   .navbar-nav .ml-auto {
@@ -57,4 +59,18 @@ body {
     font-weight: lighter;
   }
 
-  /* Images */
+/* Images */
+
+img {
+        width:100%;
+        height:100%;
+}
+
+/* Paragraph */
+
+p {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    
+}
