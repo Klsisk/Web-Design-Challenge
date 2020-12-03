@@ -46,7 +46,7 @@ body {
   }
   .title {
       font-size: 40px;
-      color: #4AAAA5;
+      color: #4F85A7;
       font-weight: bold;
       font: Georgia;
       padding-top: 10px;
@@ -86,4 +86,39 @@ p {
     margin-bottom: 60px;
     padding: 10px 30px 10px;
     background-color: white;
+}
+
+.comparison-header {
+  /* Positioning */
+  margin-bottom: 10px;
+  text-align: center;
+  font-family: Georgia, Times, "Times New Roman", serif;
+
+  /* Typography */
+  font-size: 30px;
+  font-weight: bold;
+  color: #1A5276;
+  text-align: center;
+}
+
+.category {
+    font-size: 16px;
+}
+
+/* Footer */
+footer {
+    background-color: #1A5276;
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: #083048;
+    color: white;
+    min-height: 60px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 12px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 15px;
 }
