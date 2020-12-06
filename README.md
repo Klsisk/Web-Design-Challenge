@@ -1,3 +1,3 @@
 # Web-Design-Challenge
 
-[link to web challenge](klsisk.github.io/web-design-challenge/)
+[link to web-challenge](https://klsisk.github.io/Web-Design-Challenge/)
