@@ -1,6 +1,6 @@
 # Web Design : Web Visualization Dashboard (Latitude)
 
-[link to web-challenge](https://klsisk.github.io/Web-Design-Challenge/)
+[Link to Web Design Challenge Results](https://klsisk.github.io/Web-Design-Challenge/)
 
 ## Background
 Create a Visualization Dashboard Website of Weather in 500+ World Cities Relative to the Equator at Different Latitudes Using HTML5, CSS3 and Bootstrap 4
